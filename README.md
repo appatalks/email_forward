@@ -9,5 +9,5 @@ Changed it up a bit to copy the email to a subfolder, and give it the name of th
 I think I like this way of doing Email much better than before - using free domain from gdaddy, that is no longer free :/ </p>
 
 </b>
-Bitcoin Donation: 16CowvxvLSR4BPEP9KJZiR622UU7hGEce5 </p>
-Ethereum Donation: 0xf75278bd6e2006e6ef4847c9a9293e509ab815c5
+
+## Tested with Python 3.11 Sept. 2023
